@@ -1,4 +1,4 @@
-# Digital-Image-Processing、
+# Digital-Image-Processing
 通过matlab进行简单的图像处理，如图像的逻辑运算、图像通道间的运算、多幅图像间的运算、灰度图像的增强、彩色图像的增强。
 
 
