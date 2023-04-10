@@ -1,7 +1,6 @@
 clear all
 
  
-
 A=imread('211.jpeg');
 
 B=imread('212.jpg');
