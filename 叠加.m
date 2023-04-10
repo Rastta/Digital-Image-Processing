@@ -20,7 +20,6 @@ B1 = imresize(B1,[r,c]);
 
  
 
- 
 
 for i=1:r
 
