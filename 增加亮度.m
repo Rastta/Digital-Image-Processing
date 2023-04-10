@@ -47,3 +47,4 @@ subplot(1,3,3);
 imshow(C);
 
 title('变亮');
+
